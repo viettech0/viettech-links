@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "davidnguyen179",
+      "name": "David Nguyen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6290720?v=4",
+      "profile": "http://dzungnguyen.dev",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "viettech-links",
+  "projectOwner": "viettech0",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
