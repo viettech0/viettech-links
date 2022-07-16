@@ -57,3 +57,5 @@
 [Quá trình build resume](https://www.facebook.com/groups/1177470863076165/permalink/1201257950697456/)
 
 [We are all human](https://www.facebook.com/groups/1177470863076165/permalink/1188814395275145)
+
+[Some ideas to improve your LinkedIn profile](https://www.reddit.com/r/datascience/comments/vzmcc2/some_ideas_to_improve_your_linkedin_profile)
